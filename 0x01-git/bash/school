@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 #/bin/bash
 echo "School" 
 #!/bin/bash
 #!/bin/bash
 The school is open!
+=======
+School
+#!/bin/bash
+>>>>>>> update_script
